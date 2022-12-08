@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\azat_\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\azat_\\AppData\\Roaming\\NuGet\\NuGet.Config"
