@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\azat_\\Angular\\DatingApp\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\azat_\\Angular\\DatingApp\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\azat_\\Angular\\DatingApp\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\azat_\\Angular\\DatingApp\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\azat_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\azat_\\OneDrive\\Skrivebord\\Job\\Angular\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\azat_\\Angular\\DatingApp\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\azat_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\azat_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

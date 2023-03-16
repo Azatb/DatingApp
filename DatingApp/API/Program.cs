@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 var Builder = WebApplication.CreateBuilder(args);
 
-
+// Add services to the container
 
 Builder.Services.AddControllers();
 Builder.Services.AddDbContext<DataContext>(opt => 
